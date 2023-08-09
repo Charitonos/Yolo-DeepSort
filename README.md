@@ -16,6 +16,6 @@ You can download deep sort feature extraction model [here](https://drive.google.
 
 ## Youtube tutorial
 
-I recommend watching [this](htts://youtube.com/watch?v=jIRRuGN0j5E) youtube tutorial if the code provided is not clear.
+I recommend watching [this](htts://www.youtube.com/watch?v=jIRRuGN0j5E) youtube tutorial if the code provided is not clear.
 
 
