@@ -1,20 +1,21 @@
-# object-tracking-yolov8-deep-sort
+# Object Tracking with DeepSORT and Yolo
 
-Yolov8 object detection + deep sort object tracking !
-
-[![Watch the video](https://img.youtube.com/vi/jIRRuGN0j5E/0.jpg)](https://www.youtube.com/watch?v=jIRRuGN0j5E)
+This is a fork of computervisionenginere repository. Replaced deprecated libraries and used some differnet functions.
 
 ## requirements
 
-- Python 3.7
+- Python >= 3.7
 - requirements.txt
+- nas_req.txt
 
 ## Deep Sort
 
-We are working on [this fork](https://github.com/computervisiondeveloper/deep_sort) from deep sort official implementation.
+We are working on [this fork](https://github.com/Charitonos/deep_sort.git) from deep sort official implementation.
 
 You can download deep sort feature extraction model [here](https://drive.google.com/open?id=18fKzfqnqhqW3s9zwsCbnVJ5XF2JFeqMp).
 
-## data
+## Youtube tutorial
 
-You can download the same data I use in the video [here](https://drive.google.com/drive/folders/18srgGIoavKutQ2MDu_d8flAlOW-aDsAG?usp=share_link).
+I recommed watching [this](htts://www.youtube.com/watch?v=jIRRuGN0j5E) youtube tutorial if the code provided is not clear
+
+
